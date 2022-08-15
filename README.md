@@ -65,14 +65,18 @@ Below is the top-view of contents in the repository.
 			to learn follow the project
 			
  /Test:		Codes used to partially test the circuit.
+ 
 	 * /LEDtest: Codes for testing LEDs with Shift Register
 	 * /Melody: Codes for testing Buzzer and Motors
 	  
  /Images:	Image files used for README.md
+ 
 	 * LED_SR.png: Schematic View for testing /LEDtest code
 	 * Buzzer_Motor.png: Schematic View for tesing /Melody code
 	  
  /Xmas:		The entire codes for this project
+ 
+ /Videoe:	Quick presentation video
  ```
  
  
