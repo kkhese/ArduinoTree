@@ -6,32 +6,23 @@ The goal was to use as many Arduino components as possible to create a prototype
 - [Top of Screen](#arduino-uno-r3-project)
 - [Motivation](#motivation)
 - [Table of Contents](#table-of-contents)
-- [Designed Board](#designed-board)
+- [Building The Project](#building-the-project)
 	- [Prototype](#prototype)
 	- [Circuit View](#circuit-view)
+	- [Schematic View](#schematic-view)
 	- [Block Diagram](#block-diagram)
+- [Repository Contents](#repository-contents)
 - [How to Run](#how-to-run)
     - [System & Software Requirement](#system--software-requirement)
     - [Ready to Run Guide](#ready-to-run-guide)
 - [How to Use](#how-to-use)
-- [Application Features and Functions](#application-features-and-functions)
-	- [List of Files](#list-of-files)
-	- [File Map](#file-map)
-	- [Feature List with Functions](#feature-list-with-functions)
-		- [1. Home Screen](#home-screen)
-		- [2. Tutorial Screen](#tutorial-screen)
-		- [3. Home to Main Category](#home-to-main-category)
-		- [4. House Tree Person Screen](#house-tree-person-screen)
-		- [5. Detail Screen](#detail-screen)
-	- [Copyright Information](#copyright-information)
-		- [Contact Information](#contact-information)
-		- [Tfelypoc](#tfelypoc)
-		- [Reference](#reference)
-		- [A Link for Downloaded Images](#a-link-for-downloaded-images)
-	- [Acknowledgement](#acknowledgement)
-	- [Bug List](#bug-list)
+- [Copyright Information](#copyright-information)
+	- [Contact Information](#contact-information)
+	- [Tfelypoc](#tfelypoc)
+	- [Reference](#reference)
+	- [A Link for Downloaded Images](#a-link-for-downloaded-images)
 
-# Designed Board
+# Building The Project
 This section was intended to help you follow along with the project.
 *The required components for the project*
 ```
@@ -61,10 +52,10 @@ Image of prototype
 Since all the components in the kit were used except for a relay, the space of the breadboard was almost full and the connection was complicated. Many cautions are required when following this project.
 ![circuit](https://github.com/kkhese/ArduinoTree/blob/main/Images/Circuit%20View.png?raw=true)
 
-# Schematic View
+## Schematic View
 Schematic view drawn by Tinkercad was also provided. However, since the connection was complicated, the circuit connection was difficult to recognize at a glance. Thus, it was recommended to follow the Circuit view.
 ![schematic](https://github.com/kkhese/ArduinoTree/blob/main/Images/Schematic.png?raw=true)
-# Block Diagram
+## Block Diagram
 The image below shows a block diagram including the main inputs and outputs.
 ![blockdiagram](https://github.com/kkhese/ArduinoTree/blob/main/Images/Block%20Diagram.png?raw=true)
 # Repository Contents
@@ -83,6 +74,10 @@ Below is the top-view of contents in the repository.
 	  
  /Xmas:		The entire codes for this project
  ```
+ 
+ 
+ # How to Run
+ Requirements and run guide
 ## System & Software Requirement
  - Arduino Uno R3 board was used.
  - This project was executed by downloading the Windows ZIP file from https://www.arduino.cc/en/software.
