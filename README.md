@@ -28,20 +28,20 @@ This section was intended to help you follow along with the project.
 ```
 ◇ Arduino Board 		×1
 ◇ Green LED 			×8
-◇ Red LED  				×8
+◇ Red LED  			×8
 ◇ White LED  			×1
-◇ RGB LED  				×1
+◇ RGB LED  			×1
 ◇ 560 ohm resister		×11
 ◇ 2.2k ohm resister		×1
 ◇ Shift register  		×1
-◇ Temperature Sensor  	×1
+◇ Temperature Sensor  		×1
 ◇ Photo register  		×1
 ◇ BJT transistor  		×1
 ◇ Servos motor  		×1
 ◇ DC motor  			×1
 ◇ Piezo Buzzer  		×1
 ◇ Potentiometer  		×1
-◇ Diode  				×1
+◇ Diode  			×1
 ```
 If the Arduino Uno R3 kit was provided already, there will be no additional components required.
 ## Prototype
